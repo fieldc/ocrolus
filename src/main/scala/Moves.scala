@@ -1,5 +1,7 @@
 /**
   * Created by chris on 5/28/16.
+  *
+  * Object contains all the possible moves from a particular position
   */
 object Moves {
 
